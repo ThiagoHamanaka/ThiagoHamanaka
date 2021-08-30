@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago Hamanaka, pleased to meet you! X3
 - 👀 I’m interested in economy, tecnology, philosophy and math.
-- 🌱 I’m currently learning Web Development, Desing and SQL. 
+- 🌱 I’m currently learning Web Development, Design and SQL. 
 - 💞️ I’m looking to collaborate on any project that i can help! 
 - 📫 thiago.hamanaka@gmail.com
 <!---
